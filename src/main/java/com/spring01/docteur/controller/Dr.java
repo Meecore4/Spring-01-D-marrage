@@ -20,9 +20,9 @@ public class Dr {
         return "David Tennant";
     }
 
-    @GetMapping("/doctor/113")
+    @GetMapping("/doctor/13")
     @ResponseBody
-    public String doctor113(){
+    public String doctor13(){
         return "Jodie Whittaker";
     }
 
